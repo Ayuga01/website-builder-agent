@@ -36,7 +36,13 @@ A command-line AI agent that builds complete websites or code projects from natu
 ## 📦 Setup
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/Ayuga01/website-builder-agent.git
 cd website-builder-agent
+```
+### 2.  Install Dependencies
+``` bash
+pip install -r requirements.txt
+```
+
+### 3.  Add Your Gemini API Key
