@@ -1,4 +1,4 @@
-# 🧠 Website Builder Agent using Gemini 2.5
+# 🧠 Website Builder Agent using Gemini Flash 2.0
 
 A command-line AI agent that builds complete websites or code projects from natural language prompts. Powered by Google Gemini 2.5 Flash with function calling and prompt chaining, this tool auto-generates code, creates files, writes content, and executes shell commands — all from a single user request.
 
